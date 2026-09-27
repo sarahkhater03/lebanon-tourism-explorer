@@ -2,7 +2,7 @@
 
 An interactive Streamlit page on where Lebanon's tourism infrastructure (hotels, restaurants and cafes) is located across 1,137 towns. Built for MSBA 325 by Sarah Khater, as a follow-up to my Plotly assignment.
 
-**Live app:** https://YOUR-APP-NAME.streamlit.app  <!-- replace after deploying -->
+**Live app:** https://lebanon-tourism-explorer.streamlit.app/
 
 ## What's on the page
 - **Two linked controls:** a Governorate selectbox that sets which options appear in the District multiselect. Keep a single district to drill down from districts to individual towns.
